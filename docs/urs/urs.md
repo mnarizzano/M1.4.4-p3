@@ -39,6 +39,8 @@ Jandry Vicente
 
 ## 1. Introduction
 
+Ci è stato richiesto un software con il quale i professori e gli studenti potessero esaminare e interagire con vari aspetti di corsi e esami.
+
 <a name="sp1.1"></a>
 
 ### 1.1 Document Scope
@@ -59,7 +61,7 @@ Jandry Vicente
 
 | Acronym				| Definition | 
 | ------------------------------------- | ----------- | 
-| XXXX                                  | XXXX |
+| E.C.D.S.                                  | Esami e Corsi per Docenti e Studenti |
 
 <a name="sp1.3"></a>
 
@@ -71,7 +73,10 @@ Jandry Vicente
 <a name="p2"></a>
 
 ## 2. System Description
+
 <a name="sp2.15"></a>
+
+Il software è scritto in linguaggio Python. Il Software inoltre si divide in vari classi tramite le quali i docenti possono verificare i propri corsi e aggiungere esami e risultati mentre gli studenti possono verificare i corsi a cui appartengono, possono isciversi ad esami e possono vederne i risutati.
 
 ### 2.1 Context and Motivation
 	Ci è stato chiesto di creare un software per la gestione degli esami e la 	registrazione dei voti che possa essere utile per docenti e studenti.
