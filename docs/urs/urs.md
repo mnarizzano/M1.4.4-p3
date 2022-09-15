@@ -79,13 +79,13 @@ Ci è stato richiesto un software con il quale i professori e gli studenti potes
 Il software è scritto in linguaggio Python. Il Software inoltre si divide in vari classi tramite le quali i docenti possono verificare i propri corsi e aggiungere esami e risultati mentre gli studenti possono verificare i corsi a cui appartengono, possono isciversi ad esami e possono vederne i risutati.
 
 ### 2.1 Context and Motivation
-	Ci è stato chiesto di creare un software per la gestione degli esami e la 	registrazione dei voti che possa essere utile per docenti e studenti.
+	Ci è stato chiesto di creare un software per la gestione degli esami e la registrazione dei voti che possa essere utile per docenti e studenti.
 	
 <a name="sp2.2"></a>
 
 ### 2.2 Project Obectives 
-	Fare in modo che il docente disponga di una lista in cui il docente può visualizzare 	i propri corsi, programmare un esame, lista di studenti iscritti a esame, voto per 	ogni studente da 0 a 30.
-	Lo studente avrà accesso ad un lista di corsi a cui è iscritto, lista esami superati 	con valutazione e lista di esami a cui si può iscrivere.
+	Fare in modo che il docente disponga di una lista in cui il docente può visualizzare i propri corsi, programmare un esame, lista di studenti iscritti a esame, voto per ogni studente da 0 a 30.
+	Lo studente avrà accesso ad un lista di corsi a cui è iscritto, lista esami superati con valutazione e lista di esami a cui si può iscrivere.
 	
 	
 
