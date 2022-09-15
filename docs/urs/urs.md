@@ -3,17 +3,21 @@
 ##### DIBRIS – Università di Genova. Scuola Politecnica, Software Engineering Course 80154
 
 
-**VERSION : X.X**
+**VERSION : 10.2**
 
 **Authors**  
-XXXX
-YYYY
+Simone Schiano <br>
+Giacomo Cattozzo <br>
+Jandry Vicente
 
 **REVISION HISTORY**
 
-| Version    | Date        | Authors      | Notes        |
-| ----------- | ----------- | ----------- | ----------- |
-| X.X |  | |  |
+| Version     | Date       | Authors      | Notes        |
+| ----------- | ---------- | -----------  | -----------  |
+| 10.2.1 | 15/09/2022  | Simone, Giacomo, Jandry | Aggiornamento di sicurezza  |
+| 10.2.2 | 21/09/2022  | Simone, Giacomo, Jandry | Correzione bug |
+| 10.2.3 | 28/09/2022  | Simone, Giacomo, Jandry | Aggiornamento di sicurezza  |
+| 11.0.1 | 15/09/2022  | Simone, Giacomo, Jandry | Nuova versione del software |
 
 # Table of Contents
 
@@ -82,6 +86,10 @@ Il software è stato sviluppato con linguaggio Python. Il Software inoltre si di
 
 <a name="sp3.1"></a>
 ### 3.1 Stakeholders
+-UNIVERSITA' <br>
+-DOCENTI <br>
+-STUDENTI <br>
+-TECNICO INFORMATICO
 
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
