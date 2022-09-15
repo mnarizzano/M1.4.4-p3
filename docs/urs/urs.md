@@ -37,9 +37,15 @@ YYYY
 
 <a name="sp1.1"></a>
 
-Ci è stato richiesto un software con il quale i professori e gli studenti potessero esaminare e interagire con vari aspetti di corsi e esami. Di seguito tutte le informazioni.
-
 ### 1.1 Document Scope
+	Tramite l’applicazione
+	il docente potr`a visualizzare i corsi di cui `e docente, per ogni corso indire
+	un esame, visualizzare la lista degli studenti iscritti all’esame, e per ogni
+	studente iscritto registrare un votazione (0-30).
+	Uno studente invece potr`a visualizzare: la lista dei corsi a cui `e iscritto,
+	la lista dei corsi superati con relativa valutazione e per ogni esame la lista
+	degli esami a cui si pu`o iscrivere. Inoltre si pu`o iscrivere a un esame di ogni
+	corso a cui `e iscritto e che non ha ancora superato.
 
 
 <a name="sp1.2"></a>
@@ -49,29 +55,35 @@ Ci è stato richiesto un software con il quale i professori e gli studenti potes
 
 | Acronym				| Definition | 
 | ------------------------------------- | ----------- | 
-| E.C.D.S.                                  | Esami e Corsi per Docenti e Studenti |
+| XXXX                                  | XXXX |
 
 <a name="sp1.3"></a>
 
 ### 1.3 References 
-
+	assistenza email segreteria infosegreteria@gmail.it
+	www.assistenzasitoweb.it
+	Autore del software
+	
 <a name="p2"></a>
 
 ## 2. System Description
-
 <a name="sp2.15"></a>
 
-Il software è stato sviluppato con linguaggio Python. Il Software inoltre si divide in vari classi tramite le quali i docenti possono verificare i propri corsi e aggiungere esami e risultati mentre gli studenti possono verificare i corsi a cui appartengono, possono isciversi ad esami e possono vederne i risutati.
-
 ### 2.1 Context and Motivation
-
+	Ci è stato chiesto di creare un software per la gestione degli esami e la 	registrazione dei voti che possa essere utile per docenti e studenti.
+	
 <a name="sp2.2"></a>
 
 ### 2.2 Project Obectives 
+	Fare in modo che il docente disponga di una lista in cui il docente può visualizzare 	i propri corsi, programmare un esame, lista di studenti iscritti a esame, voto per 	ogni studente da 0 a 30.
+	Lo studente avrà accesso ad un lista di corsi a cui è iscritto, lista esami superati 	con valutazione e lista di esami a cui si può iscrivere.
+	
+	
 
 <a name="p3"></a>
 
 ## 3. Requirements
+	
 
 | Priorità | Significato | 
 | --------------- | ----------- | 
@@ -81,7 +93,9 @@ Il software è stato sviluppato con linguaggio Python. Il Software inoltre si di
 | E | **future Enhancement:** |
 
 <a name="sp3.1"></a>
-### 3.1 Stakeholders
+### 3.1 Stakeholders	
+	
+	
 
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
