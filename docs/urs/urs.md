@@ -116,7 +116,7 @@ Il software è scritto in linguaggio Python. Il Software inoltre si divide in va
 | --------------- | ----------- | ---------- | 
 | 1.0 |  Programma per Windows e Mac |M|
 | 2.0 |  Programma per Linux |D|
-| 3.0 |  Applicazione per IOS e ANDROID |M|
+| 3.0 |  Applicazione per IOS e ANDROID |E|
 | 4.0 |  Credenziali di accesso per docenti e studenti |M|
 
 
