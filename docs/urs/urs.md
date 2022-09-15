@@ -45,13 +45,13 @@ Ci è stato richiesto un software con il quale i professori e gli studenti potes
 
 ### 1.1 Document Scope
 	Tramite l’applicazione
-	il docente potr`a visualizzare i corsi di cui `e docente, per ogni corso indire
+	il docente potrà visualizzare i corsi di cui è docente, per ogni corso indire
 	un esame, visualizzare la lista degli studenti iscritti all’esame, e per ogni
 	studente iscritto registrare un votazione (0-30).
-	Uno studente invece potr`a visualizzare: la lista dei corsi a cui `e iscritto,
+	Uno studente invece potrà visualizzare: la lista dei corsi a cui è iscritto,
 	la lista dei corsi superati con relativa valutazione e per ogni esame la lista
-	degli esami a cui si pu`o iscrivere. Inoltre si pu`o iscrivere a un esame di ogni
-	corso a cui `e iscritto e che non ha ancora superato.
+	degli esami a cui si può iscrivere. Inoltre si può iscrivere a un esame di ogni
+	corso a cui è iscritto e che non ha ancora superato.
 
 
 <a name="sp1.2"></a>
