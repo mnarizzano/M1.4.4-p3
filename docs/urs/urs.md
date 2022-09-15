@@ -109,11 +109,17 @@ Jandry Vicente
 
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
-| 1.0 |  XXXXX |M|
+| 1.0 |  Programma per Windows e Mac |M|
+| 1.1 |  Programma per Linux |D|
+| 2.0 |  Applicazione per IOS e ANDROID |M|
+| 3.0 |  Credenziali di accesso per docenti e studenti |M|
+
+
 
 <a name="sp3.3"></a>
-### 3.2 Non-Functional Requirements 
+### 3.3 Non-Functional Requirements 
  
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
-| 1.0 | XXXXX |M|
+| 1.0 | Performance del software |E|
+| 2.0 | Usabilità |O|
