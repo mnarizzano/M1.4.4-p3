@@ -97,17 +97,12 @@ Jandry Vicente
 | E | **future Enhancement:** |
 
 <a name="sp3.1"></a>
-<<<<<<< HEAD
+
 ### 3.1 Stakeholders
 -UNIVERSITA' <br>
 -DOCENTI <br>
 -STUDENTI <br>
 -TECNICO INFORMATICO
-=======
-### 3.1 Stakeholders	
-	
-	
->>>>>>> 3ed1cffcdfa8ddc18a4b5e35a09d727a198676d2
 
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
