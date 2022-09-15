@@ -115,9 +115,9 @@ Il software è scritto in linguaggio Python. Il Software inoltre si divide in va
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
 | 1.0 |  Programma per Windows e Mac |M|
-| 1.1 |  Programma per Linux |D|
-| 2.0 |  Applicazione per IOS e ANDROID |M|
-| 3.0 |  Credenziali di accesso per docenti e studenti |M|
+| 2.0 |  Programma per Linux |D|
+| 3.0 |  Applicazione per IOS e ANDROID |M|
+| 4.0 |  Credenziali di accesso per docenti e studenti |M|
 
 
 
@@ -128,3 +128,4 @@ Il software è scritto in linguaggio Python. Il Software inoltre si divide in va
 | --------------- | ----------- | ---------- | 
 | 1.0 | Performance del software |E|
 | 2.0 | Usabilità |O|
+| 3.0 | Struttura del software |O|
