@@ -14,9 +14,9 @@ Jandry Vicente
 
 | Version     | Date       | Authors      | Notes        |
 | ----------- | ---------- | -----------  | -----------  |
-| 10.2.1 | 15/09/2022  | Simone, Giacomo, Jandry | Aggiornamento di sicurezza  |
-| 10.2.2 | 21/09/2022  | Simone, Giacomo, Jandry | Correzione bug |
-| 10.2.3 | 28/09/2022  | Simone, Giacomo, Jandry | Aggiornamento di sicurezza  |
+| 10.2.1 | 15/09/2021  | Simone, Giacomo, Jandry | Aggiornamento di sicurezza  |
+| 10.2.2 | 21/12/2021  | Simone, Giacomo, Jandry | Correzione bug |
+| 10.2.3 | 28/04/2022  | Simone, Giacomo, Jandry | Aggiornamento di sicurezza  |
 | 11.0.1 | 15/09/2022  | Simone, Giacomo, Jandry | Nuova versione del software |
 
 # Table of Contents
