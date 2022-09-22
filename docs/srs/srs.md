@@ -112,6 +112,79 @@
 		1)- Il docente seleziona l’esame di cui vuole la lista degli iscritti
 		2)- Il docente seleziona l’appello
 		3)- Al docente viene visualizzata la lista degli 
+		
+		
+## Amministrazione 2.3 
+
+1. caso di Amministrazione, creazione studente
+		        - scenario principale  (1a):  
+						1.1)   studente richiede di iscriversi
+				 	        1.2)   amministrazione richiede documenti per valutarne requisiti 
+					        1.3a)  requisiti studente idonei 
+					        1.4a)  amministrazione registra studente all' ateneo
+
+			- scenario alternativo (1b): 
+					        1.3b)  requisiti studente NON idonei
+						1.4b)  amministrazione informa che studente non ha i requisiti necessari
+ 
+2. caso di Amministrazione, cancellazione studente:
+
+			-scenario principale:   
+						2.1)   studente richiede di cancellarsi dal corso
+						2.2)   amministrazione avvia le pratiche per la cancellazione dello studente dai registri
+
+3. caso di Amministrazione, creazione corso:
+			
+			- scenario principale  (3a):  
+						3.1)   Amministrazione riceve richieste da parte del ministero
+						3.2)   Amministrazione valuta che siano presenti sia il personale che le risorse necessarie
+						3.3a)  amministrazione valuta positivamente
+						3.4a)  amministrazione istituisce il corso 
+
+			- scenario alternativo (3b):
+						3.3b)  amministrazione valuta negativamente
+						3.4b)  amministrazione informa ministero della mancanza di risorse
+
+
+4. caso di Amministrazione, modifica corso:
+
+			- scenario principale  (4a): 
+						4.1)   valutazione delle motivazioni che ne causerebbero la modifica
+						4.2a)  amministrazione valuta positivamente le motivazioni 
+						4.3a)  amministrazione informa studenti e docenti dei cambiamenti
+						4.4a)  amministrazione procede effettivamente all' applicazione delle modifiche
+			
+			- scenario secondario: (4b):  
+						4.2b)  amministrazione non ritiene valide le motivazioni 
+						4.3b)  amministrazione informa ministero dell' impossibilità di procedere alla modifica
+
+5. caso di amministrazione, cancellazione corso:
+
+			-scenario principale   
+						5.1)   amministrazione Valuta le motivazioni se non richiesto dal ministero
+						5.2)   amministrazione informa preventivamente studenti e docenti 
+						5.3)   amministrazione procede effettivamente alla cancellazione
+
+caso di Amministrazione, creazione docente:
+	
+			- scenario principale  (6a): 
+						6.1)   amministrazione valuta la candidatura 
+						6.2a)  amministrazione assume il docente che possiede i requisiti necessari
+
+			- scenario secondario  (6b):
+						6.2b)  amministrazione non assume il docente che difetta dei requisiti necessari
+
+caso di amministrazione, cancellazione docente:
+
+			- scenario principale  (7a):
+						7.1)   amministrazione valuta le motivazioni per procedere alla cancellazione
+						7.2)   amministrazione valuta necessario sostituire vecchio docente
+						7.3a)  amministrazione si accorda con nuovo docente
+						7.4a)  amministrazione licenzia vecchio docente
+
+			- scenario secondario  (7b):			
+						7.3b)  amministrazione valuta non necessario sostituire vecchio docente
+						7.4b)  amministrazione licenzia vecchio docente
 
 
 
