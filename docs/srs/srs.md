@@ -93,6 +93,45 @@
 		
 				viene stampata la data dell'esame.
 
+	## Scenari 2.2 Docente
+
+		1°Caso Visualizzazione dei corsi di cui è docente:
+	-Il sito richiede al docente utente e password
+	-Il docente inserisce utente e password correttamente
+	-Il docente entra nel sito
+	-Il docente riesce a visualizzare correttamente i corsi di cui è insegnante
+		Caso alternativo:
+	2a Il docente inserisce utente e/o password sbagliate
+	3  Il docente non riesce ad entrare con i dati correnti 
+	4  Il docente reimposta la password
+	5  Il docente riesce ad entrare nel sito
+	
+		2° Scenario = indire esame per corso
+	Caso Principale:
+	1 Il docente seleziona il corso di cui vuole indire l’esame
+	2 Il docente chiede date e orari all’amministrazione
+	3 L’amministrazione conferma date e orari al docente
+	4 Il docente crea l’esame
+	Caso alternativo:
+	3a L’amministrazione non conferma le date e orari al docente
+	4  Il docente chiede le date e orari disponibili all’amministrazione
+	5  L’amministrazione consegna il modulo con le date e orari disponibili al docente
+	6  Il docente sceglie le date e orari opportuni e le consegna all’amministrazione
+	7 L’amministrazione conferma le date e orari
+	8 Il docente crea l’esame
+	3° Scenario = Assegnazione voti
+	Pre condizione = Il docente ha già corretto gli esami
+	1 Il docente seleziona l’esame del corso di cui vuole mettere i voti
+	2 Il docente seleziona l’appello di quel relativo esame
+	3 Il docente selezione lo studente a cui deve mettere il voto
+	4 il docente mette il voto
+
+	4° Scenario = Studenti iscritti ad un esame 
+	Pre condizione = lo studente deve essere iscritto all’esame
+	1 Il docente seleziona l’esame di cui vuole la lista degli iscritti
+	2 Il docente seleziona l’appello
+	3 Al docente viene visualizzata la lista degli 
+
 
 
 
