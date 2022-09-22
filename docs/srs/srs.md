@@ -165,7 +165,7 @@
 						5.2)   amministrazione informa preventivamente studenti e docenti 
 						5.3)   amministrazione procede effettivamente alla cancellazione
 
-caso di Amministrazione, creazione docente:
+6. caso di Amministrazione, creazione docente:
 	
 			- scenario principale  (6a): 
 						6.1)   amministrazione valuta la candidatura 
@@ -174,7 +174,7 @@ caso di Amministrazione, creazione docente:
 			- scenario secondario  (6b):
 						6.2b)  amministrazione non assume il docente che difetta dei requisiti necessari
 
-caso di amministrazione, cancellazione docente:
+7. caso di amministrazione, cancellazione docente:
 
 			- scenario principale  (7a):
 						7.1)   amministrazione valuta le motivazioni per procedere alla cancellazione
