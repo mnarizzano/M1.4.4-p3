@@ -2,8 +2,7 @@
 
 #### Scenari
 
-
-###	2.1 Studente
+	2.1 Studente
 
 
 		Caso di studente: Iscrizione a corso
@@ -71,7 +70,7 @@
 		Post condizione-
 		viene stampata la data dell'esame.
 
-	## Scenari 2.2 Docente
+## 		Scenari 2.2 Docente
 
 		Caso docente: Visualizzazione dei corsi di cui è docente:
 		Scendario principale:
