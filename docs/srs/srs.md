@@ -1,4 +1,4 @@
-![alt tag](.png)
+![alt tag](https://github.com/mnarizzano/M1.4.4-p3/blob/main/docs/srs/imgs/usecases.png)
 
 #### Scenari
 
