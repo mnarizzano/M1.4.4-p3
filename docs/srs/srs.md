@@ -116,7 +116,8 @@
 		
 ## 2.3 - Amministrazione  
 
-1. caso di Amministrazione, creazione studente
+1. caso di Amministrazione, creazione studente:
+
 		        - scenario principale  (1a):  
 						1.1)   studente richiede di iscriversi
 				 	        1.2)   amministrazione richiede documenti per valutarne requisiti 
