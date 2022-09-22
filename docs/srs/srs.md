@@ -69,7 +69,7 @@
 		Post condizione-
 		viene stampata la data dell'esame.
 
-## 		Scenari 2.2 Docente
+## 2.2 - Docente
 
 		Caso docente: Visualizzazione dei corsi di cui è docente:
 		Scendario principale:
@@ -114,7 +114,7 @@
 		3)- Al docente viene visualizzata la lista degli 
 		
 		
-## Amministrazione 2.3 
+## 2.3 - Amministrazione  
 
 1. caso di Amministrazione, creazione studente
 		        - scenario principale  (1a):  
