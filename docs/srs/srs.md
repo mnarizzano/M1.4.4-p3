@@ -118,7 +118,7 @@
 
 1. caso di Amministrazione, creazione studente:
 
-		        - scenario principale  (1a):  
+		        - scenario principale (1a):  
 						1.1)   studente richiede di iscriversi
 				 	        1.2)   amministrazione richiede documenti per valutarne requisiti 
 					        1.3a)  requisiti studente idonei 
